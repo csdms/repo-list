@@ -1,3 +1,9 @@
 [submodule "storm"]
 	path = storm
 	url = https://github.com/csdms-contrib/storm
+[submodule "topotoolbox"]
+	path = topotoolbox
+	url = https://github.com/csdms-contrib/topotoolbox
+[submodule "pshic"]
+	path = pshic
+	url = https://github.com/csdms-contrib/pshic
